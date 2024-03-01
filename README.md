@@ -76,6 +76,11 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anupam1612&layout=compact&theme=dark" alt="Anupam Gevariya"/></p>
   </div>
 
+# 📈 Contribution Graph  
+
+ [![Anupam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anupam1612&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/Anupam1612/github-readme-activity-graph)
+ 
+
 <!--
 **Anupam1612/Anupam1612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
