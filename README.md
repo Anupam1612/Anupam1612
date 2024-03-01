@@ -45,10 +45,10 @@
 <!--  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> -->
 <!--  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js"/> -->
 <!--  <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/> -->
- <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb"/>
+<!--  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb"/> -->
  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql"/>
  <img alt="Machine Learning" src="https://img.shields.io/badge/machinelearning-%23ED8B00.svg?&style=for-the-badge&logo=ml&logoColor=white"/>
- <img alt="Machine Learning" src="https://img.shields.io/badge/machinelearning-%23ED8B00.svg?&style=for-the-badge&logo=ml&logoColor=white"/>
+ <img alt="Computer Vision" src="https://img.shields.io/badge/computervision-%23ED8B00.svg?&style=for-the-badge&logo=cv&logoColor=white"/>
  <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <!--  <img alt="Replit" src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"  -->
  <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" /> 
