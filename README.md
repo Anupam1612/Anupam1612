@@ -59,6 +59,10 @@
  <img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
 </p>
 
+# 🐉 Holopin board:
+
+[![@Anupam's Holopin board](https://holopin.me/anupam1612)](https://www.holopin.io/@anupam1612)
+
 <!--
 **Anupam1612/Anupam1612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
