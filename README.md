@@ -1,4 +1,9 @@
-### Hi there 👋
+
+<h1 align="center">Hi 👋, I'm Anupam  </h1>
+<h3 align="center">Information and Communication Technology(ICT) Undergraduate From Pandit Deendayal Energy University, Gujarat</h3>
+
+<p align="center"> I firmly believe in <b>Learning</b>, <b>Building</b> new things, and <b>Contributing</b> to our society.</p>
+
 
 <!--
 **Anupam1612/Anupam1612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
