@@ -13,6 +13,7 @@
 
 - ⚡ Fun fact **I am also Passionate about Cyber Security & Fitness enthusiastic**
 
+<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=Anupam1612&label=Profile%20views&color=6805D3&style=flat" alt="Rijans Bhagat" /> </p></h3>
 
 
 <!--
