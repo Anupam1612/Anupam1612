@@ -63,6 +63,19 @@
 
 [![@Anupam's Holopin board](https://holopin.me/anupam1612)](https://www.holopin.io/@anupam1612)
 
+# ⚙️ GitHub Analytics
+  
+<table align="center">
+  <tr>
+<td><img height="180px" src="https://github-readme-stats.vercel.app/api?username=Anupam1612&show_icons=true&theme=dark" />
+    <td><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anupam1612&layout=compact&theme=dark" /></td>
+  </tr>
+</table>
+
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anupam1612&layout=compact&theme=dark" alt="Anupam Gevariya"/></p>
+  </div>
+
 <!--
 **Anupam1612/Anupam1612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
