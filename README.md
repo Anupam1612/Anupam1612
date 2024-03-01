@@ -29,6 +29,36 @@
 <a href="https://www.credly.com/users/anupamkumar-gevariya/" target="_blank"><img src="https://img.shields.io/badge/Credly-FF6B00.svg?style=for-the-badge&logo=Credly&logoColor=white"/></a>
 </div>
 
+
+# 🛠️ Technical Skills
+
+<p align="center"> 
+ <img alt="Python" src="https://img.shields.io/badge/python-%23ED8B00.svg?&style=for-the-badge&logo=python&logoColor=white" />
+ <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
+ <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />
+ <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+ <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+ <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<!--  <img alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwindcss-563D7C?style=for-the-badge&logo=tailwindcss"/> -->
+ <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<!--  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript"/> -->
+<!--  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> -->
+<!--  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js"/> -->
+<!--  <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/> -->
+ <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb"/>
+ <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql"/>
+ <img alt="Machine Learning" src="https://img.shields.io/badge/machinelearning-%23ED8B00.svg?&style=for-the-badge&logo=ml&logoColor=white"/>
+ <img alt="Machine Learning" src="https://img.shields.io/badge/machinelearning-%23ED8B00.svg?&style=for-the-badge&logo=ml&logoColor=white"/>
+ <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<!--  <img alt="Replit" src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"  -->
+ <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" /> 
+ <img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" /> 
+ <img alt="Docker" src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker" /> 
+ <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+ <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
+ <img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
+</p>
+
 <!--
 **Anupam1612/Anupam1612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
