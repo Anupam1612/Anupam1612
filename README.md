@@ -78,7 +78,7 @@
 
 # 📈 Contribution Graph  
 
- [![Anupam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anupam1612&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/Anupam1612/github-readme-activity-graph)
+ [![Anupam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anupam1612&custom_title=Anupam%27s%20Contribution%20Graph&hide_border=true)](https://github.com/Anupam1612/github-readme-activity-graph)
  
 # 🏆 Github Trophies
 
