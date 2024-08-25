@@ -7,11 +7,11 @@
 <h3 align="center">Tech Enthusiast || Data Science || Machine Learning & Artificial Inteligence Enthusiast || Computer Vision & Natural Language Processing || Researcher || Generative AI </h3> 
 
 
-- 🌱 I’m a **Machine Learning Developer** 
+- 🌱 I’m a **AI Engineer** 
 
 - 📫 reach out to me at **amangevariya1111@gmail.com**
 
-- ⚡ Fun fact **I am also Passionate about Cyber Security & Fitness enthusiastic**
+- ⚡ Fun fact **I am also Passionate about Cyber Security**
 
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=Anupam1612&label=Profile%20views&color=6805D3&style=flat" alt="Rijans Bhagat" /> </p></h3>
 
