@@ -9,7 +9,7 @@
 
 - 🌱 I’m a **AI Engineer** 
 
-- 📫 reach out to me at **amangevariya1111@gmail.com**
+- 📫 reach out to me at **gevariyaanupam@gmail.com**
 
 - ⚡ Fun fact **I am also Passionate about Cyber Security**
 
